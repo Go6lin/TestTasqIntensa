@@ -1,0 +1,25 @@
+body {
+    background-color: #0281ff;
+}
+.content {
+    position: absolute;
+    left: 40%;
+    top: 20%;
+}
+.reference-input {
+    position: relative;
+    width: 400px;
+    height: 30px;
+}
+.result {
+    position: relative;
+    top: 30%;
+}
+.message {
+    position: absolute;
+    left: 40%;
+    top: 30%;
+}
+.memory {
+    background-color: #59a6fc;
+}
